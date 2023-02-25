@@ -1,0 +1,1 @@
+path = (/home/nuzia/VScode/BIG Project/Modul 2/PT.KOMPUTER .OK.xlsx)
