@@ -15,6 +15,7 @@ means = df.groupby('Area')[
 ].mean()
 
 # Membuat grafik
+# 'kind' bisa di ganti sesuai dengan penyajian data : 'barh','hist' dll
 means.plot(kind='bar')
 
 # Labelisasi x,y
